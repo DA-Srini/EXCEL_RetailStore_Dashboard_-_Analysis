@@ -4,6 +4,8 @@
 
 This project analyzes the annual sales data of a local retail Store in India to derive actionable insights for business growth. We've transformed raw data into a powerful dashboard, revealing key trends in customer behavior, sales patterns, and channel performance.
 
+<img width="1746" alt="Screenshot 2024-09-22 at 2 48 19 AM" src="https://github.com/user-attachments/assets/54e3af99-552d-4056-bad4-eb7cdaf927ce">
+
 ## 🧹 Data Processing: From Raw to Refined
 
 Our data journey involved several crucial steps:
@@ -37,7 +39,6 @@ Our data journey involved several crucial steps:
 - **Order Status**: 92% of orders successfully delivered 📦
 
 ## 📈 Visualizations
-<img width="1746" alt="Screenshot 2024-09-22 at 2 37 56 AM" src="https://github.com/user-attachments/assets/97957fd0-8c50-47ac-be15-1c2ac151a101">
 
 Our interactive dashboard includes:
 - Sales vs. Orders trend
